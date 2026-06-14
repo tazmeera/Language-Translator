@@ -1,28 +1,24 @@
-# Language Translation Tool
+# AI Language Translator (Python)
 
-This project is developed for the CodeAlpha AI Internship.
+An AI-powered desktop application for real-time language translation with a simple graphical interface.
 
-## Features
+---
 
-- Translate text between multiple languages
-- Auto language detection
-- Copy translation
-- Save translation
-- Translation history
-- Character counter
+## 🚀 Features
+- Multi-language text translation  
+- Automatic language detection  
+- Translation history tracking  
+- Copy translated text  
+- Save translation results  
 
-## Technologies Used
+---
 
-- Python
-- Tkinter
-- Deep Translator
+## 🧠 Tech Stack
+- Python  
+- Tkinter  
+- Deep Translator API  
 
-## Run
+---
 
-Install dependency:
-
-pip install deep-translator
-
-Run:
-
-python translator.py
+## 📌 Overview
+This project demonstrates how API-based NLP services can be integrated into a GUI application to build a practical language translation tool.
